@@ -11,7 +11,6 @@ def main():
         st.dataframe(data)
         table = data.values.tolist()
         data_to_render = find_common_elements_in_row(table)
-        st.divider()
         st.subheader("Results")
         st.json(data_to_render)
 
