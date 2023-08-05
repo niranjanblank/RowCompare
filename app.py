@@ -18,7 +18,7 @@ def main():
     st.divider()
     st.markdown("""
     Made with :heart: by Niranjan Shah \n
-    Repo: https://github.com/niranjanblank/MovieRecommenderSystem
+    Repo: https://github.com/niranjanblank/RowCompare
     """)
 
 if __name__ == "__main__":
